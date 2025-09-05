@@ -1,0 +1,23 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Node / build
+node_modules/
+dist/
+vendor/
+
+# Logs
+*.log
+
+# Env / sensitive files
+.env
+.env.local
+
+# Backup / zip
+*.zip
+*.tar.gz
